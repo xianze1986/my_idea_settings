@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Desktop/Project/claim" />
+        <option value="$USER_HOME$/Desktop/TEMP" />
       </list>
     </option>
   </component>
